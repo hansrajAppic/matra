@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\flutter project\glien_app\build\windows\CMakeFiles\8ab8b9c1a9abab23ffd054271576f08d\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C2F9621D-9580-36EA-A53C-A971A57BADF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
